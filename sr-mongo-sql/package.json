@@ -1,0 +1,19 @@
+{
+  "name": "sr-mongo-sql",
+  "version": "0.1.0",
+  "description": "This module provides quick methods for managing your mongo databases using sql statements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm_modules"
+  },
+  "keywords": [
+    "mongodb",
+    "mysql"
+  ],
+  "author": "Shaun Randall <Shaun@softwareresponse.com> (https://softwareresponse.com)",
+  "license": "MIT"
+}
